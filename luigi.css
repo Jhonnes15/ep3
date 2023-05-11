@@ -1,0 +1,17 @@
+body{text-align: center;
+    background-color:darkgrey;
+    color:black;
+    font-size: 20px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+}
+header{
+    background-color: white;
+    background-attachment: fixed;
+}
+footer{
+    background-color:white;
+}
