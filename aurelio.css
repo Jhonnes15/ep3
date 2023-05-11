@@ -1,0 +1,12 @@
+img{
+    width: 70%;
+    height: 300px;
+}
+body{text-align: center;
+     background-color: ivory;}
+     header{
+        background-color: darkred;
+     }
+     footer{
+        background-color: crimson;
+     }
